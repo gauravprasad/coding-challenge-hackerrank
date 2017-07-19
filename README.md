@@ -61,6 +61,13 @@
        EXPLANATION :
        Sum all the elments of the Array.
 
+#### [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
+##### [*Java Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/java/com/gprasad/hackerrank/javasol/algo/warmup/CompareTheTriplets.java)
+##### *Scala Solution*
+##### *Python Solution*
+      EXPLANATION :
+             
+
 ### [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
 ### [Strings](https://www.hackerrank.com/domains/algorithms/strings)
 ### [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting)
