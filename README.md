@@ -48,3 +48,28 @@
 
 #### [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
 ##### [*Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/java/com/gprasad/hackerrank/javasol/tutorial/thirtydaysofcode/Day29BitwiseAND.java)
+
+
+## Algorithms
+
+### [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+
+#### [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
+##### [*Java Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/java/com/gprasad/hackerrank/javasol/algo/warmup/SimpleArraySum.java)
+##### [*Scala Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/scala/com/gprasad/hackerrank/scalasol/algo/warmup/SimpleArraySum.scala)
+##### [*Python Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/python/com/gprasad/hackerrank/py/algo/warmup/SimpleArraySum.py)
+       EXPLANATION :
+       Sum all the elmenets of the Array.
+
+### [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
+### [Strings](https://www.hackerrank.com/domains/algorithms/strings)
+### [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting)
+### [Search](https://www.hackerrank.com/domains/algorithms/search)
+### [Graph Theory](https://www.hackerrank.com/domains/algorithms/graph-theory)
+### [Greedy](https://www.hackerrank.com/domains/algorithms/greedy)
+### [Dynamic Programming](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
+### [Constructive Algorithms](https://www.hackerrank.com/domains/algorithms/constructive-algorithms)
+### [Bit Manipulation](https://www.hackerrank.com/domains/algorithms/bit-manipulation)
+### [Recursion](https://www.hackerrank.com/domains/algorithms/recursion)
+### [Game Theory](https://www.hackerrank.com/domains/algorithms/game-theory)
+### [NP Complete](https://www.hackerrank.com/domains/algorithms/np-complete-problems)
