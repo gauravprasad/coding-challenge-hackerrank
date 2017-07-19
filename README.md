@@ -59,7 +59,7 @@
 ##### [*Scala Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/scala/com/gprasad/hackerrank/scalasol/algo/warmup/SimpleArraySum.scala)
 ##### [*Python Solution*](https://github.com/gauravprasad/coding-challenge-hackerrank/blob/master/src/main/python/com/gprasad/hackerrank/py/algo/warmup/SimpleArraySum.py)
        EXPLANATION :
-       Sum all the elmenets of the Array.
+       Sum all the elments of the Array.
 
 ### [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
 ### [Strings](https://www.hackerrank.com/domains/algorithms/strings)
