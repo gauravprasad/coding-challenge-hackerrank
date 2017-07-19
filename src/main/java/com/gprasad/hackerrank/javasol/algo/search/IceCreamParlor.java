@@ -37,7 +37,6 @@ public class IceCreamParlor {
                 }
             }
             System.out.println(output);
-            
         }
     }
 }
