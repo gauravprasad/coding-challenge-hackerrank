@@ -11,12 +11,19 @@ object SimpleArraySum {
     for (arr_i <- 0 to n - 1) {
       arr(arr_i) = sc.nextInt();
     }
-    var i = 0
+    //arr.sum
+    /*var i = 0
     var sum = 0
     while (i < n) {
       sum += arr(i)
       i += 1
-    }
-    println(sum)
+    }*/
+    val result = simpleArraySum(n, arr)
+    println(result)
+  }
+
+  def simpleArraySum(n: Int, ar: Array[Int]): Int =  {
+    // Complete this function
+    ar.sum
   }
 }
