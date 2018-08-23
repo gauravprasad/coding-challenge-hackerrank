@@ -37,7 +37,7 @@ Explanation
 The two cells with the depth of 9 fulfill all the conditions of the Cavity definition and have been replaced by X. 
 
  */
-package com.gprasad.hackerrank.javasol.algo.Implementation;
+package com.gprasad.hackerrank.javasol.algo.implementation;
 
 import java.util.Scanner;
 
