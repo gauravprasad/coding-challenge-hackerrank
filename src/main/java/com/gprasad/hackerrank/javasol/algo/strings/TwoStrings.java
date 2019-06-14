@@ -38,34 +38,27 @@ For the 2nd test case, hi and world do not have a common substring, hence the an
 package com.gprasad.hackerrank.javasol.algo.strings;
 
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
-/**
- *
- * @author gq6pras
- */
+/** @author gq6pras */
 public class TwoStrings {
 
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int testCase = input.nextInt();
-        for (int i = 0; i < testCase; i++) {
-            String s1=input.next();
-            String s2=input.next();
-            System.out.println(ifCommonSubStringAvailable(s1,s2)?"YES":"NO");
-        }
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    int testCase = input.nextInt();
+    for (int i = 0; i < testCase; i++) {
+      String s1 = input.next();
+      String s2 = input.next();
+      System.out.println(twoStrings(s1, s2));
     }
+  }
 
-    private static boolean ifCommonSubStringAvailable(String s1, String s2) {
-        boolean isAvailable = false;
-        for(int i=97;i<(97+26);i++)
-        {
-            if(s1.indexOf(i)!=-1&& s2.indexOf(i)!=-1)
-            {
-                isAvailable = true;
-                break;
-            }
-        }
-        
-        return isAvailable;
-    }
+  private static String twoStrings(String s1, String s2) {
+    return IntStream.rangeClosed('a', 'z')
+            .filter(c -> s1.indexOf(c) != -1 && s2.indexOf(c) != -1)
+            .findFirst()
+            .isPresent()
+        ? "YES"
+        : "NO";
+  }
 }
